@@ -23,7 +23,7 @@ deployment:
 - `DEPLOYPATH=/home/user/public_html/blog.technojs.com` - Your website full path and replace `user` with your cpanel `username`.
 - `/bin/cp * ` - '\*' means all file deploy in cPanel
 
-6. Again, push the your website source code to your Git Repository.
+6. Again, push the source code of your website to the Git Repository.
 7. In Git Version Control
    - Click on `Manage` button, from the list
    - Click on `Update` button in Basic Information tab

@@ -1,4 +1,4 @@
-# cPanel Connect To GitGub
+# cPanel Connect To GitHub
 
 1. Create a Git Repository as public visibility.
 2. Push your entire website code to your Git Repository.

@@ -16,11 +16,11 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/blog.technojs.com
+    - export DEPLOYPATH=/home/user/public_html/subfolder
     - /bin/cp * $DEPLOYPATH
 ```
 
-- `DEPLOYPATH=/home/user/public_html/blog.technojs.com` - Your website full path and replace `user` with your cpanel `username`.
+- `DEPLOYPATH=/home/user/public_html/subfolder` - Your website full path and replace `user` with your cpanel `username`.
 - `/bin/cp * ` - '\*' means all file deploy in cPanel
 
 6. Again, push the source code of your website to the Git Repository.
